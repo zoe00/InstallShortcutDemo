@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IconAdsDemo</string>
+    <string name="hello_world">Please check home screen to preview shortcut...</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
